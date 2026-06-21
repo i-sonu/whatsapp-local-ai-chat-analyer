@@ -6,7 +6,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Status: Ready](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)](#)
+[![Status: Doesn't track message replies](https://img.shields.io/badge/Status-Doesn't%20know%20which%20replies%20mentioned%20previous%20msgs-orange?style=flat-square)](#)
 
 </div>
 
