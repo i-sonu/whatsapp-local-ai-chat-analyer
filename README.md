@@ -19,11 +19,11 @@ Export a WhatsApp group chat. Ask questions. Get answers backed by **exact citat
 Every factual claim in the answer gets a numbered marker `[1]`, `[2]`, and a **Sources** section lists the exact sender, date, time, and original text for each citation. No hallucinations. No invented sources.
 
 ```
-you  How is Pankaj Shukla for DET?
+you  How is John Doe for DET?
 
-Pankaj Shukla is regarded as a good teacher with strong teaching quality and a 
+John Doe is regarded as a good teacher with strong teaching quality and a 
 high class average [1][2], though he is known to give a fair amount of work [1]. 
-For DET specifically, some students suggest Ashis Bera gives easier marks while 
+For DET specifically, some students suggest Jane Doe gives easier marks while 
 Pankaj is the better teacher [3].
 
 ────────────────────────────────────────────────────────────────
@@ -35,8 +35,8 @@ Sources
 [2] +91 97909 70726  ·  2026-04-10, 10:46
     "his class has the least strength for cvla this sem"
 
-[3] Shashank VIT  ·  2026-04-10, 10:57
-    "Marks:ashis bera \nTeaching:pankaj"
+[3] Sebastian  ·  2026-04-10, 10:57
+    "Marks:Jane Doe \nTeaching:John Doe"
 ```
 
 ---
