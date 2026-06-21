@@ -1,0 +1,26 @@
+# Generated artifacts
+chroma_db/
+parsed_messages.json
+
+# Exported chats (keep your own private data out of git)
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Local model / HF cache (if pointed here)
+.cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
